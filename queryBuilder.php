@@ -1,4 +1,5 @@
 <?php 
+        // Created by KaloyJS ^^ 
 	class QueryBuilder{
 
 		protected $query;
